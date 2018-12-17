@@ -10,7 +10,7 @@
   "dependencies": {
     "mapbox-gl": "0.51.0",
     "vue": "2.5.16",
-    "vue-browser-geolocation": "1.2.0",
+    "vue-browser-geolocation": "1.5.0",
     "vue-mapbox": "0.0.29",
     "vue-router": "3.0.1",
     "vuesax": "3.8.0"
