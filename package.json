@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "mapbox-gl": "0.51.0",
-    "vue": "2.5.16",
+    "vue": "2.5.22",
     "vue-browser-geolocation": "1.2.0",
     "vue-mapbox": "0.0.29",
     "vue-router": "3.0.1",
@@ -21,7 +21,7 @@
     "@vue/cli-service": "3.0.0-rc.3",
     "@vue/eslint-config-prettier": "3.0.0-rc.3",
     "lint-staged": "8.1.0",
-    "vue-template-compiler": "2.5.16"
+    "vue-template-compiler": "2.5.22"
   },
   "eslintConfig": {
     "root": true,
