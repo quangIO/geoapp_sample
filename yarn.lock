@@ -7154,9 +7154,9 @@ vue@^2.5.17:
   version "2.5.21"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.21.tgz#3d33dcd03bb813912ce894a8303ab553699c4a85"
 
-vuesax@3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/vuesax/-/vuesax-3.8.0.tgz#8f7b63e1b4e2f223d7c97eab0f0b6d6496027921"
+vuesax@3.8.16:
+  version "3.8.16"
+  resolved "https://registry.yarnpkg.com/vuesax/-/vuesax-3.8.16.tgz#68180d998593876b0bf6efe221f53aa5bbedd3b0"
   dependencies:
     vue "^2.5.17"
 
